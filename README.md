@@ -63,5 +63,4 @@ resume-screener/
 ## 👤 Author
 
 **Edwin Saji**
-MCA Student, Kristu Jayanti College, Bangalore
-Focus: Cloud Engineering (AWS)
+MCA Student, Kristu Jayanti University
